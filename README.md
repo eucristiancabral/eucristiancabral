@@ -1,6 +1,6 @@
 ## Olá, eu sou o Cristian Cabral! 😄
 
-Estudante apaixonado pela área de TI e atualmente cursando técnico em Desenvolvimento de Sistemas.
+Estudante apaixonado por TI e atualmente cursando técnico em Desenvolvimento de Sistemas.
 
 ### O que é mais importante para mim?
 
