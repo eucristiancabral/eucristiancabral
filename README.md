@@ -4,7 +4,7 @@ Estudante apaixonado por TI e atualmente cursando técnico em Desenvolvimento de
 
 ### O que é mais importante para mim?
 
-Conseguir ajudar as pessoas por meio dos códigos. 
+Conseguir ajudar as pessoas por meio de códigos. 
 
 ### Onde você pode me encontrar?
 
