@@ -16,7 +16,7 @@ Ou se preferir, envie um e-mail para: **cristianjosecabral@outlook.com**.
 
 - Adoro codar escutando música.
 - Desde pequeno sempre gostei da área da tecnologia, sendo esse o motivo pelo qual decidi me aventurar no universo da programação.
-- Acho o Desenvolvimento de Jogos muito interessante e pretendo estudar mais sobre essa área futuramente.
+- Entusiasta na área de Desenvolvimento de Jogos.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Cristian-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
