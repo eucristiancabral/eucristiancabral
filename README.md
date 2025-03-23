@@ -1,10 +1,10 @@
 ## Olá, eu sou o Cristian Cabral! 😄
 
-Estudante apaixonado por TI e atualmente cursando técnico em Desenvolvimento de Sistemas.
+Técnico em Desenvolvimento de Sistemas e Estudante apaixonado por TI. Atualmente cursando Engenharia da Computação na UEMG.
 
 ### O que é mais importante para mim?
 
-Conseguir ajudar as pessoas por meio de códigos. 
+Ajudar e simplificar a vida das pessoas por meio dos códigos. 
 
 ### Onde você pode me encontrar?
 
