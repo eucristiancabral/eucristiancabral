@@ -8,7 +8,7 @@ Atualmente cursando Engenharia da Computação na UEMG.
 
 Ajudar e simplificar a vida das pessoas por meio dos códigos. 
 
-### Onde você pode me encontrar?
+### Onde você pode me encontrar? 
 
 Converse comigo através do meu [Linkedin](https://www.linkedin.com/in/eucristiancabral/).
 
